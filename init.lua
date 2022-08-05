@@ -1,0 +1,13 @@
+require('settings')
+require('packer-config')
+require('colorscheme')
+require("nvim-tree-config")
+require("mappings")
+require("lsp.language-servers")
+require("lsp.nvim-cmp")
+require("treesiter-config")
+require("autopairs-config")
+require("lualine-config")
+require("barbar-config")
+require("comment-config")
+
